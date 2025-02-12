@@ -8,7 +8,7 @@
     height: 100%;
     margin: 0;
   }
-// THIS IS MY CODE 123456789
+// THIS IS MY CODE 12345678
   body {
     background: black;
     display: flex;
